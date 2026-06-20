@@ -125,18 +125,17 @@ Custom URL Shortener
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/Mokshith2c" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  <a href="https://www.linkedin.com/in/mokshith2c/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/mokshith2c/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  <a href="https://www.instagram.com/mokshith_14/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://www.instagram.com/mokshith_14/" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="50" />
+  <a href="https://github.com/Mokshith2c">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
 ---
 
