@@ -96,7 +96,7 @@ Custom URL Shortener
 <h2 align="center">🎮 Pac-Man Contributions</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Mokshith2c/Mokshith2c/output/pacman-contribution-graph.svg">
+<img src="https://raw.githubusercontent.com/Mokshith2c/Mokshith2c/output/dist/pacman-contribution-graph-dark.svg">
 </p>
 
 ---
