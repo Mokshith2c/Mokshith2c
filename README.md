@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/coding.gif" width="100%">
+  <img src="assets/prof.gif" width="100%">
 </p>
 
 <h1 align="center">👋 Hey, I'm Mokshith</h1>
