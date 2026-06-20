@@ -93,6 +93,13 @@ Custom URL Shortener
 </table>
 
 ---
+<h2 align="center">🎮 Pac-Man Contributions</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mokshith2c/Mokshith2c/output/pacman-contribution-graph.svg">
+</p>
+
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -103,14 +110,6 @@ Custom URL Shortener
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Mokshith2c&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">🎮 Pac-Man Contributions</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Mokshith2c/Mokshith2c/output/pacman-contribution-graph.svg">
 </p>
 
 ---
