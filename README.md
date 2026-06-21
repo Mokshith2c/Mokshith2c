@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/coding.gif" width="100%">
+  <img src="assets/prof.gif" width="100%">
 </p>
 
 <h1 align="center">👋 Hey, I'm Mokshith</h1>
@@ -125,13 +125,17 @@ Custom URL Shortener
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-<a href="https://github.com/Mokshith2c">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+  <a href="https://www.linkedin.com/in/mokshith2c/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
+  <a href="https://www.instagram.com/mokshith_14/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://github.com/Mokshith2c">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile ⭐
-</p>
