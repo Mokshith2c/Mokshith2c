@@ -41,7 +41,7 @@ Real-Time Video Conferencing Platform
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="huddlemeet.tech">
+<a href="https://www.huddlemeet.tech/">
 <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge">
 </a>
 
