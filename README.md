@@ -2,6 +2,12 @@
   <img src="assets/prof.gif" width="100%">
 </p>
 
+<h2 align="center">🎮 Pac-Man Contributions</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mokshith2c/Mokshith2c/output/dist/pacman-contribution-graph-dark.svg">
+</p>
+
 <h1 align="center">👋 Hey, I'm Mokshith</h1>
 
 <h3 align="center">
@@ -91,13 +97,6 @@ Custom URL Shortener
 </td>
 </tr>
 </table>
-
----
-<h2 align="center">🎮 Pac-Man Contributions</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Mokshith2c/Mokshith2c/output/dist/pacman-contribution-graph-dark.svg">
-</p>
 
 ---
 
