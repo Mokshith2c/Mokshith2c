@@ -31,6 +31,7 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
+<tr>
 <td width="33%">
 
 ### 🎥 Huddle
@@ -136,5 +137,5 @@ Custom URL Shortener
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
----
 
+---
