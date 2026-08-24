@@ -42,9 +42,9 @@
 </p>
 
 <ul>
-  <li>WebRTC peer-to-peer video & audio</li>
+  <li>WebRTC peer-to-peer video, audio & screen share</li>
   <li>Socket.IO signaling</li>
-  <li>Real-time chat, collaborative whiteboard & File Sharing</li>
+  <li>Real-time chat, collaborative whiteboard, File Sharing & Location Sharing</li>
   <li>React + Node.js</li>
   <li>MongoDB</li>
 </ul>
@@ -116,6 +116,81 @@
 
 ---
 
+<h2 align="center">🎮 Games</h2>
+
+<table width="90%" align="center">
+<tr>
+
+<td width="33.33%" align="center" valign="top">
+
+<h3>🐍 Hungry Snake</h3>
+
+<a href="https://github.com/Mokshith2c/HungrySnake">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://hungry-snake-nine.vercel.app/">
+  <img src="https://img.shields.io/badge/Play_Live-00C853?style=for-the-badge">
+</a>
+
+<p><b>Tech Stack</b></p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="25"/>
+</p>
+
+</td>
+
+<td width="33.33%" align="center" valign="top">
+
+<h3>🎵 Simon Says</h3>
+
+<a href="https://github.com/Mokshith2c/Simon-Says-Game">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://mokshith2c.github.io/Simon-Says-Game/">
+  <img src="https://img.shields.io/badge/Play_Live-00C853?style=for-the-badge">
+</a>
+
+<p><b>Tech Stack</b></p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/>
+</p>
+
+</td>
+
+<td width="33.33%" align="center" valign="top">
+
+<h3>⭕ Tic-Tac-Toe</h3>
+
+<a href="https://github.com/Mokshith2c/TicTacToe">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://mokshith2c.github.io/TicTacToe/">
+  <img src="https://img.shields.io/badge/Play_Live-00C853?style=for-the-badge">
+</a>
+
+<p><b>Tech Stack</b></p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
 <h2 align="center">📊 GitHub Stats</h2>
 
 
