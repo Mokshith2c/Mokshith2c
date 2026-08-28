@@ -191,26 +191,6 @@
 </table>
 
 ---
-<h2 align="center">📊 GitHub Stats</h2>
-
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Mokshith2c&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mokshith2c&theme=tokyo-night&hide_border=true"
-  />
-</p>
-
----
 
 <h2 align="center">🌐 Connect With Me</h2>
 
